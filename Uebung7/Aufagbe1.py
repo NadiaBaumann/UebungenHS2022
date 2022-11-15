@@ -51,5 +51,5 @@ uvicorn.run(app, host="127.0.0.1", port=8001)
 #Eingabe-Beispiel:
 #http://127.0.0.1:8001/gemeinde?gemeinde=Muttenz
 
-#Augabe:
+#Ausgabe:
 #{"Ortschaft":"Muttenz","Postleitzahl":"4132","Zusatzziffer":"0","BFS":"2770","Kanton":"BL","Ost":"2616256.8110000007","Nord":"1263384.3759999983","Sprache":"de"}
